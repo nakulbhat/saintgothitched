@@ -1,7 +1,7 @@
 :root {
     --textcolor: #323232;
     --bgcolor: #DDD0C8;
-    --glasscolor: rgba(255, 255, 255, 0);
+    --glasscolor: rgba(255, 255, 255, 0.432);
     --lighttextcolor: rgba(128, 128, 128, 0.358);
 }
 
@@ -239,7 +239,7 @@ footer {
 .nb {
     color: var(--textcolor);
     text-align: center;
-    margin-top: -25px;
+    margin-top: -5px;
     font-family: Beth Ellen;
     font-size: 50px;
 }
